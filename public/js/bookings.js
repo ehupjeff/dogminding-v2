@@ -25,7 +25,7 @@ function renderBookingSearch() {
         <button id="btn-export-pdf" class="btn btn-outline btn-small" style="flex:1;">Export PDF</button>
       </div>
     </div>
-    <div class="card" id="search-results"><div class="empty-state"><p>Use the filters above</p></div></div>
+    <div class="card" id="search-results"><div class="empty-state"><p>Use the filters above to search</p></div></div>
   `;
 
   (async () => {
